@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hi, I'm Harshika Kilaru👋
 
-<!--
-**HarshikaKilaru/HarshikaKilaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B-Tech Computer Science & Business Systems Student
+💻 Aspiring Software Developer
+🚀 Hackathon Enthusiast | Tech Explorer
 
-Here are some ideas to get you started:
+👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a Computer Science & Business Systems student interested in building practical technology solutions and continuously improving my development skills.
+
+* 🌱 Currently learning Java, DSA & Web Development
+* 🔐 Exploring Cybersecurity & AI
+* 💡 Interested in turning ideas into practical projects
+* 🚀 Participating in hackathons and technical events
+* 📚 Learning through hands-on projects
+
+🛠️ Technologies & Tools
+
+Languages:
+Java • SQL
+
+Currently Exploring:
+HTML • CSS • JavaScript • AI • Cybersecurity
+
+Tools:
+Git • GitHub • VS Code
+
+🎯 Current Goal
+
+Learn by building, participate in hackathons, and grow as a software developer.
+
+🤝 Let’s Connect
+
+Always open to learning, collaborating, and working on interesting technology projects.
