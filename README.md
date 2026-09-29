@@ -20,7 +20,7 @@ Languages:
 Java • SQL
 
 Currently Exploring:
-HTML • CSS • JavaScript • AI • Cybersecurity
+Python • JavaScript • AI • Cybersecurity
 
 Tools:
 Git • GitHub • VS Code
