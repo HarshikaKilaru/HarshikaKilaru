@@ -1,34 +1,34 @@
-## Hi, I'm Harshika Kilaru👋
+## Hi, I'm Harshika Kilaru
 
-🎓 B-Tech Computer Science & Business Systems Student
-💻 Aspiring Software Developer
-🚀 Hackathon Enthusiast | Tech Explorer
+ B-Tech Computer Science & Business Systems Student
+ Aspiring Software Developer
+ Hackathon Enthusiast | Tech Explorer
 
-👩‍💻 About Me
+#  About Me
 
 I’m a Computer Science & Business Systems student interested in building practical technology solutions and continuously improving my development skills.
 
-* 🌱 Currently learning Java, DSA & Web Development
-* 🔐 Exploring Cybersecurity & AI
-* 💡 Interested in turning ideas into practical projects
-* 🚀 Participating in hackathons and technical events
-* 📚 Learning through hands-on projects
+*  Currently learning Java, DSA & Web Development
+*  Exploring Cybersecurity & AI
+*  Interested in turning ideas into practical projects
+*  Participating in hackathons and technical events
+*  Learning through hands-on projects
 
-🛠️ Technologies & Tools
+#  Technologies & Tools
 
 Languages:
 Java • SQL
 
-Currently Exploring:
+# Currently Exploring:
 Python • JavaScript • AI • Cybersecurity
 
 Tools:
 Git • GitHub • VS Code
 
-🎯 Current Goal
+# Current Goal
 
 Learn by building, participate in hackathons, and grow as a software developer.
 
-🤝 Let’s Connect
+# Let’s Connect
 
 Always open to learning, collaborating, and working on interesting technology projects.
